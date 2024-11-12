@@ -1,8 +1,8 @@
-#app-dev#
+# app-dev
 
 
 
-##My first repository##
+## My first repository
 
 One of my favorite movies is **Inception (2010)**, directed by *Christopher Nolan*. It’s a mind-bending science fiction thriller that explores the concept of dreams within dreams and the blurry line between reality and the subconscious. The film follows Dom Cobb (played by *Leonardo DiCaprio*), a skilled "extractor" who enters people's dreams to steal their secrets. However, Cobb is tasked with the opposite—performing "inception," planting an idea in someone's mind so subtly that they believe it was their own.
 
